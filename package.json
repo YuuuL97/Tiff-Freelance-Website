@@ -1,0 +1,13 @@
+{
+  "name": "tiffany-jung-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tiffany Jung — a dependency-free HTML, CSS and JavaScript portfolio.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

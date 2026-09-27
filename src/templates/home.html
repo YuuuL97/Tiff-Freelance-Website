@@ -1,0 +1,41 @@
+<main id="main">
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="container hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">{{heroEyebrow}}</p>
+        <h1 id="hero-title">Art Operations, Production &amp; Project Management</h1>
+        <p class="intro"><em>{{intro}}</em></p>
+        <p class="hero-location"><strong>{{heroLocation}}</strong></p>
+      </div>
+    </div>
+  </section>
+  <section class="home-section" id="services" aria-labelledby="home-services-title" data-carousel>
+    <div class="container">
+      <div class="section-heading">
+        <div><p class="eyebrow">Services</p><h2 id="home-services-title">Integrated support for the art world.</h2></div>
+        {{serviceControls}}
+      </div>
+      <ul class="card-track" id="service-track" tabindex="0" aria-label="Services — scroll for more">
+        {{serviceCards}}
+      </ul>
+    </div>
+  </section>
+  <section class="home-section projects-section" id="projects" aria-labelledby="recent-work-title" data-carousel>
+    <div class="container">
+      <div class="section-heading">
+        <div><p class="eyebrow">Selected projects</p><h2 id="recent-work-title">Recent Work</h2></div>
+        <div class="section-actions">{{projectControls}}</div>
+      </div>
+      <ul class="card-track" id="project-track" tabindex="0" aria-label="Recent work — scroll for more">
+        {{projectCards}}
+      </ul>
+    </div>
+  </section>
+  <section class="experience-band" id="experience" aria-labelledby="selected-experience-title">
+    <div class="container">
+      <p class="eyebrow">Experience</p>
+      <h2 id="selected-experience-title">Selected Experience</h2>
+      <ul class="experience-grid">{{experienceCards}}</ul>
+    </div>
+  </section>
+</main>

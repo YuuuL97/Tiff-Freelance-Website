@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "frieze-korea-turkish-airlines",
+    "title": "Frieze Seoul × Turkish Airlines",
+    "years": "2024",
+    "summary": "Booth production assistance, research, and furniture sourcing and purchasing for Turkish Airlines, working with Frieze Studios and Frieze Frame.",
+    "categories": [
+      "exhibitions",
+      "art-fairs"
+    ],
+    "image": "assets/images/optimized/frieze-seoul-turkish-airlines.webp",
+    "imageAlt": "Turkish Airlines exhibition booth with lounge seating and artwork.",
+    "role": "[Add your role]",
+    "location": "[Add location]",
+    "overview": "[Add a short introduction to the project, the brief, and the people or organisations involved.]",
+    "approach": "[Describe your responsibilities, how you approached the work, and the key stages of the project.]",
+    "outcome": "[Add the final outcome, highlights, and any relevant results.]",
+    "gallery": [],
+    "draft": true,
+    "imageWidth": 1206,
+    "imageHeight": 789
+  },
+  {
+    "slug": "international-art-fair-management",
+    "title": "Art Fair/ Exhibition Planning",
+    "years": "2022 – 2025",
+    "summary": "Planning, preparation, and on-site sales for art fairs across Asia, Europe, and the U.S.",
+    "categories": [
+      "art-fairs"
+    ],
+    "image": "assets/images/optimized/art-fair-exhibition-planning.webp",
+    "imageAlt": "Art fair booth with reflective sculptures and colourful circular artworks.",
+    "role": "[Add your role]",
+    "location": "[Add location]",
+    "overview": "Planning, preparation, and on-site sales for art fairs across Asia, Europe, and the U.S.\n\nSelected fairs include Frieze Seoul, Frieze London, Art Basel Hong Kong, Art Abu Dhabi, Cologne Art Fair, Art Miami, and The Armory Show.",
+    "approach": "[Describe your responsibilities, how you approached the work, and the key stages of the project.]",
+    "outcome": "[Add the final outcome, highlights, and any relevant results.]",
+    "gallery": [],
+    "draft": true,
+    "imageWidth": 2000,
+    "imageHeight": 1500,
+    "imagePosition": "50% 64%"
+  },
+  {
+    "slug": "artist-brand-collaborations",
+    "title": "Artist × Brand Collaborations",
+    "years": "2025 – 2026",
+    "summary": "Managed Jae Yong Kim’s ongoing Snoopy collaboration and travelling exhibition, and led packaging design for his collaboration with cosmetics brand Darling.",
+    "categories": [
+      "brand-collaborations"
+    ],
+    "image": "assets/images/optimized/artist-brand-collaborations.webp",
+    "imageAlt": "Snoopy and Peanuts characters displayed on colourful doughnut sculptures.",
+    "role": "[Add your role]",
+    "location": "[Add location]",
+    "overview": "[Add a short introduction to the project, the brief, and the people or organisations involved.]",
+    "approach": "[Describe your responsibilities, how you approached the work, and the key stages of the project.]",
+    "outcome": "[Add the final outcome, highlights, and any relevant results.]",
+    "gallery": [],
+    "draft": true,
+    "imageWidth": 1334,
+    "imageHeight": 1000
+  },
+  {
+    "slug": "logistics-shipping-coordination",
+    "title": "Logistics and Administration",
+    "years": "2022 – 2026",
+    "summary": "Shipping coordination, artwork condition report & documentation, inventory management, and day-to-day administrative support for artists, galleries, and international projects.",
+    "categories": [
+      "exhibitions",
+      "art-fairs"
+    ],
+    "image": "assets/images/optimized/logistics-administration.webp",
+    "imageAlt": "Artwork being prepared beside a wooden shipping crate in a studio.",
+    "role": "[Add your role]",
+    "location": "[Add location]",
+    "overview": "[Add a short introduction to the project, the brief, and the people or organisations involved.]",
+    "approach": "[Describe your responsibilities, how you approached the work, and the key stages of the project.]",
+    "outcome": "[Add the final outcome, highlights, and any relevant results.]",
+    "gallery": [],
+    "draft": true,
+    "imageWidth": 1500,
+    "imageHeight": 2000,
+    "imagePosition": "50% 60%"
+  }
+]

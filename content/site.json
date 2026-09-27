@@ -1,0 +1,21 @@
+{
+  "name": "Tiffany Jung",
+  "description": "Tiffany Jung is an independent arts professional with 10 years of experience in art operations, exhibitions, production, and international artwork logistics.",
+  "intro": "I’m Tiffany Jung, an arts professional with 10 years of experience across artist studios, galleries, auction houses, and international art fairs. I work across operations, exhibitions, production, sales, client relations, commissions, and international artwork logistics.",
+  "email": "tjungyoora@gmail.com",
+  "phones": [
+    {
+      "label": "+82 10 2235 6284",
+      "href": "+821022356284"
+    },
+    {
+      "label": "+1 949 525 1381",
+      "href": "+19495251381"
+    }
+  ],
+  "languages": "English / Korean",
+  "serviceImage": "assets/images/placeholders/landscape.svg",
+  "serviceImageAlt": "",
+  "heroEyebrow": "Independent Arts Professional",
+  "heroLocation": "Based in Seoul · Working internationally"
+}

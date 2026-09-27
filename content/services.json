@@ -1,0 +1,52 @@
+[
+  {
+    "id": "exhibition-art-fair-production",
+    "title": "Exhibitions & Art Fairs",
+    "description": "Planning, coordination, Korean-English Bilingual work, and on-site support for exhibitions, art fairs, and off-site projects.",
+    "image": "assets/images/website%20image/Exhibitions%20%26%20Art%20Fairs%20Combined.svg",
+    "imageAlt": "Art Basel and Frieze logos.",
+    "imageWidth": 1440,
+    "imageHeight": 800,
+    "imageFit": "contain"
+  },
+  {
+    "id": "studio-gallery-operations",
+    "title": "Studio & Gallery Operations",
+    "description": "Day-to-day operations, team management, and workflow development.",
+    "image": "assets/images/optimized/studio-gallery-operations.webp",
+    "imageAlt": "Paintings and works in progress arranged throughout an artist’s studio.",
+    "imageWidth": 1500,
+    "imageHeight": 2000,
+    "imagePosition": "50% 70%"
+  },
+  {
+    "id": "art-sales-client-relations",
+    "title": "Art Sales & Client Relations",
+    "description": "Client liaison, sales support, and long-term relationship management.",
+    "image": "assets/images/optimized/art-sales-client-relations.webp",
+    "imageAlt": "Colourful paintings displayed in a gallery with a worktable in the foreground.",
+    "imageWidth": 2000,
+    "imageHeight": 1500,
+    "imagePosition": "50% 85%"
+  },
+  {
+    "id": "international-logistics",
+    "title": "International Logistics",
+    "description": "Customs coordination, packing, shipping, and end-to-end logistics for international projects.",
+    "image": "assets/images/optimized/international-logistics.webp",
+    "imageAlt": "Wooden artwork shipping crates and installation equipment inside an art fair hall.",
+    "imageWidth": 2000,
+    "imageHeight": 1500,
+    "imagePosition": "50% 100%"
+  },
+  {
+    "id": "artist-gallery-support",
+    "title": "Archives & Artist Support",
+    "description": "Research, archive management/development, documentation, writing, and applications, administrative and strategic support.",
+    "image": "assets/images/optimized/archives-artist-support.webp",
+    "imageAlt": "A person installing colourful doughnut-shaped artworks on a gallery wall.",
+    "imageWidth": 1935,
+    "imageHeight": 2000,
+    "imagePosition": "50% 30%"
+  }
+]
