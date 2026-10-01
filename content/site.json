@@ -17,5 +17,8 @@
   "serviceImage": "assets/images/placeholders/landscape.svg",
   "serviceImageAlt": "",
   "heroEyebrow": "Independent Arts Professional",
-  "heroLocation": "Based in Seoul · Working internationally"
+  "heroLocation": "Based in Seoul · Working internationally",
+  "artistNote": "Alongside this work, I maintain my own practice as an artist.",
+  "artistUrl": "https://tjungyoora.com/",
+  "artistLinkLabel": "Explore my artwork"
 }

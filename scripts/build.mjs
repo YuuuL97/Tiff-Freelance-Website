@@ -37,6 +37,7 @@ async function page(file, main, options = {}) {
 }
 
 const home = render(await read('src/templates/home.html'), {
+  artistNote: escape(site.artistNote), artistUrl: escape(site.artistUrl), artistLinkLabel: escape(site.artistLinkLabel),
   intro: escape(site.intro), heroEyebrow: escape(site.heroEyebrow), heroLocation: escape(site.heroLocation), serviceControls: controls('service-track', 'services'), projectControls: controls('project-track', 'projects'),
   serviceCards: services.map((item, index) => `<li class="service-card"><a class="card-link" href="services/${escape(item.id)}.html">${image(item, '', 'card-image')}<p class="card-number">${String(index + 1).padStart(2, '0')}</p><h3>${escape(item.title)}</h3></a></li>`).join('\n        '),
   projectCards: projects.map((item) => projectCard(item)).join('\n        '),

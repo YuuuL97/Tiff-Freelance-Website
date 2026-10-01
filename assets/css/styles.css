@@ -55,6 +55,8 @@ p { color: var(--color-muted); }
 .hero .eyebrow { font-size: 14px; }
 .hero h1 { font-size: clamp(26px, 2.7vw, 39px); margin-bottom: 24px; }
 .hero .intro { max-width: 680px; font-size: 18px; line-height: 1.6; }
+.artist-note { max-width: 680px; margin-top: 20px; font-size: 16px; line-height: 1.6; }
+.artist-note a { display: inline-block; margin-top: 6px; color: var(--color-ink); text-decoration: underline; text-underline-offset: .2em; }
 .hero-location { margin-top: 20px; color: var(--color-ink); font-size: 13px; line-height: 1.5; }
 .hero-location strong { font-weight: 600; }
 .home-section { padding-block: 40px 34px; }
@@ -209,6 +211,7 @@ p { color: var(--color-muted); }
   .hero .eyebrow { font-size: 12px; }
   .hero h1 { font-size: clamp(23px, 5.7vw, 30px); margin-bottom: 19px; }
   .hero .intro { font-size: 16px; }
+  .artist-note { font-size: 14px; }
   .eyebrow { font-size: 10px; }
   .home-section { padding-block: 28px 18px; }
   .section-heading { align-items: end; gap: 12px; flex-wrap: wrap; }
