@@ -29,6 +29,7 @@ async function page(file, main, options = {}) {
     title: escape(title), description: escape(description), robots: options.noindex ? '<meta name="robots" content="noindex, nofollow">' : '',
     base, bodyClass: options.bodyClass || '', main,
     email: escape(site.email), phones: site.phones.map((phone) => `<a href="tel:${escape(phone.href)}">${escape(phone.label)}</a>`).join('\n        '),
+    artistUrl: escape(site.artistUrl), artistDomain: escape(new URL(site.artistUrl).hostname),
     languages: escape(site.languages)
   });
   await mkdir(path.dirname(path.join(root, file)), { recursive: true });
